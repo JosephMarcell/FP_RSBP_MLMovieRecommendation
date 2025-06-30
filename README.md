@@ -1,5 +1,11 @@
 ## Getting Started
 
+Anggota Kelompok : 
+- Joseph Marcell Gultom - 5025221279
+- Izzat Aji Androfaza - 5025221245
+- Fahmi Anhar Fatmawaddin - 5025221143
+
+
 - Clone repo ini:
 ```bash
 git clone https://github.com/JosephMarcell/FP_RSBP_MLMovieRecommendation.git
